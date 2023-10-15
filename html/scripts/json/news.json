@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Server Maintenance Scheduled",
+        "content": "Dear players, we'll be undergoing a scheduled maintenance on Friday at 2 AM GMT. Expect a downtime of 2 hours. Save your progress!",
+        "logo": "/html/assets/images/boii_logo.png",
+        "extendedContent": "We're always striving to improve your gaming experience. This maintenance will include bug fixes, new vehicle additions, and some exciting new roleplay scenarios. Don't forget to check our forums for detailed patch notes. We appreciate your patience and understanding!"
+    },
+    {
+        "title": "New Roleplay Scenario: Bank Heist!",
+        "content": "Get ready for the most thrilling heist in the city's history. Form your crew, strategize, and pull off the biggest score!",
+        "logo": "/html/assets/images/boii_logo.png",
+        "extendedContent": "Introducing a new bank building, equipped with alarms, vaults, and security systems. Police department is notified when the heist starts, ensuring intense player vs player action. Remember, planning is key. Good luck!"
+    },
+    {
+        "title": "Player Spotlight: MadMike",
+        "content": "Congratulations to MadMike for being our player of the month! Check out his incredible roleplay stories.",
+        "logo": "/html/assets/images/boii_logo.png",
+        "extendedContent": "MadMike has shown exceptional roleplay skills, especially in the medical scenarios. From saving lives as a paramedic to crafting gripping stories, he's a true asset to our community. Join us in congratulating him on our forums!"
+    },
+    {
+        "title": "New Vehicle Additions",
+        "content": "We've added 10 new vehicles to our server. Hop in and take them for a spin!",
+        "logo": "/html/assets/images/boii_logo.png",
+        "extendedContent": "From supercars to utility vehicles, we've got it all. Special shoutout to our modding team for their hard work. Visit our in-game car dealerships and check these beauties out!"
+    },
+    {
+        "title": "Feedback Wanted: New Map Locations",
+        "content": "We're planning to expand our map with new roleplay locations. Share your ideas!",
+        "logo": "/html/assets/images/boii_logo.png",
+        "extendedContent": "Our design team is brainstorming new locations like farms, factories, and more. But we want to hear from you. What places would you like to see? Join the discussion on our forums and let your voice be heard."
+    }
+]

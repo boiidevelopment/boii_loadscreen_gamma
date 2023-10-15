@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Dreamin",
+        "artist": "NOYSE",
+        "artwork": "/html/assets/images/artwork/noyse_dreamin.jpg",
+        "file": "/html/assets/audio/noyse_dreamin.mp3"
+    },
+    {
+        "title": "8 Rounds",
+        "artist": "Zaug",
+        "artwork": "/html/assets/images/artwork/zaug_8rounds.jpg",
+        "file": "/html/assets/audio/zaug_8rounds.mp3"
+    },
+    {
+        "title": "Pull Up",
+        "artist": "ANGELPLAYA",
+        "artwork": "/html/assets/images/artwork/angelplaya_pullup.jpg",
+        "file": "/html/assets/audio/angelplaya_pullup.mp3"
+    },
+    {
+        "title": "Bye Bye",
+        "artist": "Andrah",
+        "artwork": "/html/assets/images/artwork/andrah_byebye.jpg",
+        "file": "/html/assets/audio/andrah_byebye.mp3"
+    }
+]

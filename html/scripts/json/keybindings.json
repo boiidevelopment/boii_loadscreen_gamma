@@ -1,0 +1,5 @@
+[
+    { "key": "F1", "action": "Open Inventory" },
+    { "key": "F2", "action": "Open Map" },
+    { "key": "F3", "action": "Open Menu" }
+]

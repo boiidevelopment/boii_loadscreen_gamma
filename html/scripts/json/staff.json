@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Doe",
+        "role": "Server Administrator",
+        "bio": "John has been with our community since its inception and plays a pivotal role in managing server operations.",
+        "logo": "/html/assets/images/boii_logo.png"
+    },
+    {
+        "name": "Jane Smith",
+        "role": "Moderator",
+        "bio": "Jane is an active member of the server, moderating and ensuring a pleasant experience for all users.",
+        "logo": "/html/assets/images/boii_logo.png"
+    }
+]
